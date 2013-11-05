@@ -1,0 +1,99 @@
+E:\study  material\SEM3\case tool lab\all forms for railway concession\all forms for railway concession\bin\Debug\all forms for railway concession.exe
+E:\study  material\SEM3\case tool lab\all forms for railway concession\all forms for railway concession\bin\Debug\all forms for railway concession.pdb
+E:\study  material\SEM3\case tool lab\all forms for railway concession\all forms for railway concession\bin\Debug\all forms for railway concession.xml
+E:\study  material\SEM3\case tool lab\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.Resources.resources
+E:\study  material\SEM3\case tool lab\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all forms for railway concession.vbproj.GenerateResource.Cache
+E:\study  material\SEM3\case tool lab\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all forms for railway concession.exe
+E:\study  material\SEM3\case tool lab\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all forms for railway concession.xml
+E:\study  material\SEM3\case tool lab\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all forms for railway concession.pdb
+E:\study  material\SEM3\case tool lab\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.STUDENT.resources
+E:\study  material\SEM3\case tool lab\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.TICKET.resources
+E:\study  material\SEM3\case tool lab\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.welcome_to_system.resources
+E:\study  material\SEM3\case tool lab\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.login_as_admin.resources
+E:\study  material\SEM3\case tool lab\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.login_as_student.resources
+E:\study  material\SEM3\case tool lab\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.Welcome_student.resources
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all forms for railway concession.exe
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all forms for railway concession.xml
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all forms for railway concession.pdb
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\bin\Debug\all forms for railway concession.exe
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\bin\Debug\all forms for railway concession.pdb
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\bin\Debug\all forms for railway concession.xml
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.login_as_admin.resources
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.login_as_student.resources
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.STUDENT.resources
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.Resources.resources
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.TICKET.resources
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.Welcome_student.resources
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.welcome_to_system.resources
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all forms for railway concession.vbproj.GenerateResource.Cache
+D:\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all forms for railway concession.exe
+D:\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all forms for railway concession.xml
+D:\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all forms for railway concession.pdb
+D:\all forms for railway concession\all forms for railway concession\bin\Debug\all forms for railway concession.exe
+D:\all forms for railway concession\all forms for railway concession\bin\Debug\all forms for railway concession.pdb
+D:\all forms for railway concession\all forms for railway concession\bin\Debug\all forms for railway concession.xml
+D:\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.login_as_admin.resources
+D:\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.login_as_student.resources
+D:\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.STUDENT.resources
+D:\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.Resources.resources
+D:\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.TICKET.resources
+D:\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.Welcome_student.resources
+D:\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.welcome_to_system.resources
+D:\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all forms for railway concession.vbproj.GenerateResource.Cache
+D:\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.aboutus.resources
+D:\all forms for railway concession\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.aboutadmin.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW\all forms for railway concession\obj\x86\Debug\all forms for railway concession.exe
+C:\Users\ashi\Desktop\FORMS TO SHOW\all forms for railway concession\obj\x86\Debug\all forms for railway concession.xml
+C:\Users\ashi\Desktop\FORMS TO SHOW\all forms for railway concession\obj\x86\Debug\all forms for railway concession.pdb
+C:\Users\ashi\Desktop\FORMS TO SHOW\all forms for railway concession\bin\Debug\all forms for railway concession.exe
+C:\Users\ashi\Desktop\FORMS TO SHOW\all forms for railway concession\bin\Debug\all forms for railway concession.pdb
+C:\Users\ashi\Desktop\FORMS TO SHOW\all forms for railway concession\bin\Debug\all forms for railway concession.xml
+C:\Users\ashi\Desktop\FORMS TO SHOW\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.aboutadmin.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.aboutus.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.login_as_admin.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.login_as_student.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.STUDENT.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.Resources.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.TICKET.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.Welcome_student.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.welcome_to_system.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW\all forms for railway concession\obj\x86\Debug\all forms for railway concession.vbproj.GenerateResource.Cache
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all forms for railway concession.exe
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all forms for railway concession.xml
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all forms for railway concession.pdb
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\bin\Debug\all forms for railway concession.exe
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\bin\Debug\all forms for railway concession.pdb
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\bin\Debug\all forms for railway concession.xml
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.aboutadmin.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.aboutus.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.login_as_admin.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.login_as_student.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.STUDENT.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.Resources.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.TICKET.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.Welcome_student.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.welcome_to_system.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all forms for railway concession.vbproj.GenerateResource.Cache
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.status.resources
+C:\Users\ashi\Desktop\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.Adminaccess.resources
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all forms for railway concession.exe
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all forms for railway concession.xml
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all forms for railway concession.pdb
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\bin\Debug\all forms for railway concession.exe
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\bin\Debug\all forms for railway concession.pdb
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\bin\Debug\all forms for railway concession.xml
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.aboutadmin.resources
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.aboutus.resources
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.Adminaccess.resources
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.login_as_admin.resources
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.login_as_student.resources
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.status.resources
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.STUDENT.resources
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.Resources.resources
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.TICKET.resources
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.Welcome_student.resources
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all_forms_for_railway_concession.welcome_to_system.resources
+C:\Users\ashi\Desktop\PROJECT railway concession\FORMS TO SHOW - Copy\all forms for railway concession\obj\x86\Debug\all forms for railway concession.vbproj.GenerateResource.Cache
+G:\TO UPLOAD\final project\all forms for railway concession\obj\x86\Debug\all forms for railway concession.exe
+G:\TO UPLOAD\final project\all forms for railway concession\obj\x86\Debug\all forms for railway concession.xml
+G:\TO UPLOAD\final project\all forms for railway concession\obj\x86\Debug\all forms for railway concession.pdb

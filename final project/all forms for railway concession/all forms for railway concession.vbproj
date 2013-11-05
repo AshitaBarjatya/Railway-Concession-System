@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C0F788F6-349C-466C-9843-2344CA018AE3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>all_forms_for_railway_concession.My.MyApplication</StartupObject>
+    <RootNamespace>all_forms_for_railway_concession</RootNamespace>
+    <AssemblyName>all forms for railway concession</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>all forms for railway concession.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>all forms for railway concession.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aboutadmin.Designer.vb">
+      <DependentUpon>aboutadmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aboutadmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aboutus.Designer.vb">
+      <DependentUpon>aboutus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aboutus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Adminaccess.Designer.vb">
+      <DependentUpon>Adminaccess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Adminaccess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login as admin.Designer.vb">
+      <DependentUpon>login as admin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login as admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login as student.Designer.vb">
+      <DependentUpon>login as student.vb</DependentUpon>
+    </Compile>
+    <Compile Include="login as student.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="status.Designer.vb">
+      <DependentUpon>status.vb</DependentUpon>
+    </Compile>
+    <Compile Include="status.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="STUDENT.Designer.vb">
+      <DependentUpon>STUDENT.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="TICKET.Designer.vb">
+      <DependentUpon>TICKET.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TICKET.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome student.Designer.vb">
+      <DependentUpon>Welcome student.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome student.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="welcome to system.Designer.vb">
+      <DependentUpon>welcome to system.vb</DependentUpon>
+    </Compile>
+    <Compile Include="welcome to system.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="aboutadmin.resx">
+      <DependentUpon>aboutadmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aboutus.resx">
+      <DependentUpon>aboutus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Adminaccess.resx">
+      <DependentUpon>Adminaccess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login as admin.resx">
+      <DependentUpon>login as admin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login as student.resx">
+      <DependentUpon>login as student.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="status.resx">
+      <DependentUpon>status.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="STUDENT.resx">
+      <DependentUpon>STUDENT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TICKET.resx">
+      <DependentUpon>TICKET.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome student.resx">
+      <DependentUpon>Welcome student.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="welcome to system.resx">
+      <DependentUpon>welcome to system.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15050.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\150501.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\changed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bckg for home.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg for aboutus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picfor about admin.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg for stulogin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic in admin log in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bcg for stu welcome.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG FOR STU FORM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG FOR TICKT INFO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\railway ticket.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\students bg for stuinfo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bcg1 home.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new bcg foraboutus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new bcg for stuwelcome.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new bcg for stuwelcome1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG FOR STUWEL.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img for stuform.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bcg forstulogin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bcg forstulogin1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img forstulogin.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\bin\Release\all forms for railway concession.exe
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\bin\Release\all forms for railway concession.pdb
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\bin\Release\all forms for railway concession.xml
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Release\all_forms_for_railway_concession.login_as_admin.resources
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Release\all_forms_for_railway_concession.login_as_student.resources
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Release\all_forms_for_railway_concession.STUDENT.resources
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Release\all_forms_for_railway_concession.Resources.resources
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Release\all_forms_for_railway_concession.TICKET.resources
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Release\all_forms_for_railway_concession.Welcome_student.resources
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Release\all_forms_for_railway_concession.welcome_to_system.resources
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Release\all forms for railway concession.vbproj.GenerateResource.Cache
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Release\all forms for railway concession.exe
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Release\all forms for railway concession.xml
+C:\Users\ashi\Desktop\all forms for railway concession\all forms for railway concession\obj\x86\Release\all forms for railway concession.pdb
